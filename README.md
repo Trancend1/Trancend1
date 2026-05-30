@@ -63,6 +63,8 @@ Manages glossary consistency, resumable translation runs, and deterministic QA �
 
 ### ⚙️ GitHub Statistics
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Trancend1)](https://github.com/Trancend1)
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trancend1&show_icons=true)](https://github.com/Trancend1)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trancend1&layout=compact)](https://github.com/Trancend1)

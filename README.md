@@ -4,8 +4,7 @@
     🌱  Passionate about building useful tools that solve real problems.
     💓  Love for clean architecture and developer-friendly CLI design.
     ✍️  Always learning — currently deep in Python tooling, NLP, and AI-assisted development.
-    🛠️  Using the "Semi Vibe Coding" methodology with Claude Code as AI pair-programmer.
-    🇮🇩  Based in Jakarta, Indonesia.
+
 
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhanalamsyah099@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%23007BB5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-alamsyah-ab822b1b3/)

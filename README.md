@@ -63,7 +63,6 @@ Manages glossary consistency, resumable translation runs, and deterministic QA �
 
 ### ⚙️ GitHub Statistics
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Trancend1&hide_border=true&theme=nightowl)](https://github.com/Trancend1)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trancend1&show_icons=true)](https://github.com/Trancend1)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trancend1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl)](https://github.com/Trancend1)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trancend1&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl)](https://github.com/Trancend1)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trancend1&layout=compact)](https://github.com/Trancend1)

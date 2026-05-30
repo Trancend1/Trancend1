@@ -65,6 +65,6 @@ Manages glossary consistency, resumable translation runs, and deterministic QA â
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Trancend1)](https://github.com/Trancend1)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trancend1&show_icons=true)](https://github.com/Trancend1)
+![Profile Views](https://komarev.com/ghpvc/?username=Trancend1&label=Profile%20Views&color=blue&style=flat)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Trancend1&layout=compact)](https://github.com/Trancend1)
+[![GitHub User's Top Languages](https://img.shields.io/badge/top%20languages-python%20|%20typescript%20|%20javascript-blue?style=flat)](https://github.com/Trancend1)

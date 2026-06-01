@@ -11,15 +11,34 @@
 
 ---
 
-### 🔭 Featured Project
+## 🔭 Featured Project
 
 #### [Weaver](https://github.com/Trancend1/weaver)
-> Offline-capable, glossary-aware JP→EN novel translation workbench for fan-translators.
 
-A local CLI that turns a Japanese EPUB into a translated EPUB and a Markdown review file.
-Manages glossary consistency, resumable translation runs, and deterministic QA — no GUI, no accounts, no telemetry.
+> Offline-capable, glossary-aware JP→EN novel translation workbench for fan translators.
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)
+Weaver is a local-first translation workbench that converts Japanese EPUB novels into translated EPUBs and Markdown review files.
+
+Built for long-form fiction workflows, it provides glossary enforcement, translation memory, resumable batch processing, and deterministic QA checks to maintain consistency across large projects.
+
+Key features
+
+- EPUB → translated EPUB pipeline
+- Project-scoped glossary and character database
+- Translation memory for term reuse
+- Resumable translation jobs
+- Deterministic QA and review reports
+- Local execution with no accounts, subscriptions, or telemetry
+
+[![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FASTAPI-009688.svg?&style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Pydantic](https://img.shields.io/badge/PYDANTIC-E92063.svg?&style=flat&logo=pydantic&logoColor=white)](https://docs.pydantic.dev/)
+[![Pytest](https://img.shields.io/badge/PYTEST-0A9EDC.svg?&style=flat&logo=pytest&logoColor=white)](https://pytest.org/)
+[![OpenAI](https://img.shields.io/badge/OPENAI-412991.svg?&style=flat&logo=openai&logoColor=white)](https://openai.com/)
+[![Anthropic](https://img.shields.io/badge/ANTHROPIC-191919.svg?&style=flat&logoColor=white)](https://www.anthropic.com/)
+[![Gemini](https://img.shields.io/badge/GEMINI-4285F4.svg?&style=flat&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
+[![OpenRouter](https://img.shields.io/badge/OPENROUTER-7C3AED.svg?&style=flat&logoColor=white)](https://openrouter.ai/)
 ![Status](https://img.shields.io/badge/STATUS-v0.3.0%20alpha-orange.svg?&style=flat)
 ![License](https://img.shields.io/badge/LICENSE-MIT-green.svg?&style=flat)
 

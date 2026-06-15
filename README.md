@@ -60,7 +60,7 @@ The goal is simple: make novel translation feel less scattered, more manageable,
 
 LangkahSelangkah connects learners with creators such as teachers, tutors, communities, and learning institutions who create and sell structured learning packages.
 
-#### SahamLens
+#### [SahamLens](https://github.com/Trancend1/sahamlens)
 
 > Agentic investment research platform for explainable stock research workflows.
 

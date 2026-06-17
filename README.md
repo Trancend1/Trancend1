@@ -8,7 +8,7 @@
 ✍️  Always learning — currently focused on Python tooling, FastAPI, LLM app design, and AI-assisted development.
 ```
 
-[![Portfolio](https://img.shields.io/badge/portfolio-trancend1.dev-111827.svg?\&style=for-the-badge\&logo=vercel\&logoColor=white)](https://trancend1.dev)
+[![Portfolio](https://img.shields.io/badge/portfolio-trancend.one-111827.svg?\&style=for-the-badge\&logo=vercel\&logoColor=white)](https://trancend.one)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?\&style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:farhanalamsyah099@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%23007BB5.svg?\&style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/farhan-alamsyah-ab822b1b3/)
 

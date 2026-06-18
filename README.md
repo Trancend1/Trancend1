@@ -54,17 +54,18 @@ The goal is simple: make novel translation feel less scattered, more manageable,
 
 ## 🧩 Other Projects
 
-#### [LangkahSelangkah](https://langkahselangkah.com)
+### LangkahSelangkah
 
-> Open education marketplace for learning resources and practice-question packages.
+> Open learning ecosystem for structured education, assessments, and creator-driven learning products.
 
-LangkahSelangkah connects learners with creators such as teachers, tutors, communities, and learning institutions who create and sell structured learning packages.
+LangkahSelangkah is an education platform that connects learners with educators, tutors, institutions, and communities through structured learning programs, practice-question packages, and digital educational resources. The platform focuses on improving access to high-quality learning materials while enabling creators to build and monetize educational products.
 
-#### [SahamLens](https://github.com/Trancend1/sahamlens)
+### SahamLens
 
-> Agentic investment research platform for explainable stock research workflows.
+> AI-assisted investment research workspace for explainable market analysis and decision support.
 
-SahamLens is a research-focused platform for watchlists, indicators, journals, AI briefs, and local-first investment analysis. It is designed as a decision-support and research tool, not an automated trading system.
+SahamLens is a local-first investment research platform that combines watchlists, technical indicators, journals, AI-generated research briefs, and portfolio analysis into a unified workflow. The platform emphasizes transparency, explainability, and investor education, helping users conduct structured research and make informed investment decisions without providing automated trading or financial advisory services.
+amLens is a research-focused platform for watchlists, indicators, journals, AI briefs, and local-first investment analysis. It is designed as a decision-support and research tool, not an automated trading system.
 
 ---
 

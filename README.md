@@ -54,13 +54,13 @@ The goal is simple: make novel translation feel less scattered, more manageable,
 
 ## 🧩 Other Projects
 
-### LangkahSelangkah
+### [LangkahSelangkah](https://langkahselangkah.com/)
 
 > Open learning ecosystem for structured education, assessments, and creator-driven learning products.
 
 LangkahSelangkah is an education platform that connects learners with educators, tutors, institutions, and communities through structured learning programs, practice-question packages, and digital educational resources. The platform focuses on improving access to high-quality learning materials while enabling creators to build and monetize educational products.
 
-### SahamLens
+### [SahamLens](https://github.com/Trancend1/sahamlens)
 
 > AI-assisted investment research workspace for explainable market analysis and decision support.
 

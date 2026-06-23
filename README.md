@@ -92,12 +92,16 @@ amLens is a research-focused platform for watchlists, indicators, journals, AI b
 [![NLP](https://img.shields.io/badge/NLP-121011.svg?\&style=flat\&logo=python\&logoColor=white)](https://en.wikipedia.org/wiki/Natural_language_processing)
 [![pandas](https://img.shields.io/badge/PANDAS-150458.svg?\&style=flat\&logo=pandas\&logoColor=white)](https://pandas.pydata.org/)
 [![Jupyter](https://img.shields.io/badge/JUPYTER-F37626.svg?\&style=flat\&logo=jupyter\&logoColor=white)](https://jupyter.org/)
+[![Data Analysis](https://img.shields.io/badge/DATA%20ANALYSIS-0EA5E9.svg?&style=flat&logo=googlesheets&logoColor=white)](https://en.wikipedia.org/wiki/Data_analysis)
+[![Data Visualization](https://img.shields.io/badge/DATA%20VISUALIZATION-7C3AED.svg?&style=flat&logo=plotly&logoColor=white)](https://en.wikipedia.org/wiki/Data_and_information_visualization)
 [![Pytest](https://img.shields.io/badge/PYTEST-0A9EDC.svg?\&style=flat\&logo=pytest\&logoColor=white)](https://pytest.org/)
 [![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF.svg?\&style=flat\&logo=github-actions\&logoColor=white)](https://github.com/features/actions)
 [![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?\&style=flat\&logo=docker\&logoColor=white)](https://www.docker.com/)
 [![Prompt Engineering](https://img.shields.io/badge/PROMPT%20ENGINEERING-AA00FF.svg?\&style=flat\&logoColor=white)](https://en.wikipedia.org/wiki/Prompt_engineering)
 [![AI Agents](https://img.shields.io/badge/AI%20AGENTS-111827.svg?\&style=flat\&logoColor=white)](https://en.wikipedia.org/wiki/Intelligent_agent)
 [![MCP](https://img.shields.io/badge/MCP%20/%20Claude%20Code-CC785C.svg?\&style=flat\&logoColor=white)](https://docs.anthropic.com/en/docs/claude-code)
+[![CI/CD](https://img.shields.io/badge/CI/CD-222222.svg?&style=flat&logo=githubactions&logoColor=white)](https://en.wikipedia.org/wiki/CI/CD)
+[![Software Testing](https://img.shields.io/badge/SOFTWARE%20TESTING-DC2626.svg?&style=flat&logo=testinglibrary&logoColor=white)](https://en.wikipedia.org/wiki/Software_testing)
 
 ---
 
